@@ -60,7 +60,9 @@ public class DB {
 			}
 		}
 	}
-	
+
+	//teste de git
+
 	public static void closeResultSet(ResultSet rs) {
 		if(rs != null) {
 			try{
